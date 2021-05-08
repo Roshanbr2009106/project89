@@ -1,0 +1,13 @@
+.body_background{
+    background-image: url(img1.jpg);
+    text-align: center;
+}
+.page-header{
+    font-size: 40px;
+    font-weight: bold;
+    color: darkred;
+    font-family: 'Source Code Pro', monospace;
+}
+#img{
+    text-align: right;
+}
